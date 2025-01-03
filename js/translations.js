@@ -6,16 +6,16 @@ i18next
     resources: {
       en: {
         translation: {
-          title: "Title",
-          subtitle: "Subtitle",
-          text: "text",
+          title: "Welcome!",
+          subtitle: "Here you will learn to use the library i18n",
+          text: "This library allows you to do multilingual websites just in a moment!!",
         }
       },
       es: {
         translation: {
-            title: "Título",
-            subtitle: "Subtítulo",
-            text: "texto",
+            title: "¡Bienvenido!",
+            subtitle: "Aquí aprenderás a utilizar la librería i18n",
+            text: "Esta librería te permite hacer páginas web multilingües en un momento!!",
         }
       }
     }
